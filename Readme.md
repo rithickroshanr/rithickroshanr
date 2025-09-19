@@ -1,6 +1,8 @@
 # 💫 About Me:
 ### Hi there 👋<br><br>- 💻 I'm currently working on a fullstack web app that connects students with mentors.  <br>- 🤝 I'm looking to collaborate on open-source projects that solve real-world problems.  <br>- 🛠️ I'm looking for help with optimizing backend performance in Node.js.  <br>- 📚 I'm currently learning Full-Stack .  <br>- 💬 Ask me about Python, React, or how I build small automation tools.  <br>- 🎉 Fun fact: I once debugged an error at 3 AM that turned out to be a missing semicolon.  <br>
 
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/7442ee41-3517-48bd-bf40-0f0f8913279b)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sparrow_rithick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rithick-roshan-r-9a5995302) 
